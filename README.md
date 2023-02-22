@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm cuterwrite</h1>
-<h3 align="center">A doctor of computer science from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkucoldkeyboard&label=Profile%20views&color=0e75b6&style=flat" alt="pkucoldkeyboard" /> </p>
 
