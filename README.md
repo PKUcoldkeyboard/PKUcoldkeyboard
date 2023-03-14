@@ -17,7 +17,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,stackoverflow,vscode,idea,js,html,css,c,nodejs,python,java,vue,spring,maven,mongo,redis,mysql,md,linux,bash,docker,kubernetes,nginx,jenkins,tensorflow,pytorch,golang,flutter)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,stackoverflow,vscode,idea,js,html,css,c,nodejs,python,java,vue,spring,maven,mongo,redis,mysql,md,linux,bash,docker,kubernetes,nginx,jenkins,tensorflow,pytorch,golang,flutter,cs,cpp,cmake,d3,dart,discord,bots,dotnet,githubactions,gradle,graphql,kafka,latex,php,postman)
 
 ###   Activity Graph
 
@@ -32,3 +32,6 @@ I publish open source software here. All the repositories are at your disposal.
 ###   Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PKUcoldkeyboard&layout=compact&theme=dark)
+
+###   Latest Blogs Post
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
