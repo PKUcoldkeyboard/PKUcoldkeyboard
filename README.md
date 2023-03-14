@@ -1,4 +1,6 @@
-### Hi 👋, I'm cuterwrite! Good to see you on my Github page!
+## Hi There👋
+
+I'm cuterwrite, a PhD student of Computer Science. Good to see you on my Github page!
 
 I publish open source software here. All the repositories are at your disposal.
 
