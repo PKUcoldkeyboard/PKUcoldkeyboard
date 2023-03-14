@@ -36,4 +36,10 @@ I publish open source software here. All the repositories are at your disposal.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PKUcoldkeyboard&layout=compact&theme=dark)
 
 ###   Latest Blogs Post
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [RDMA：Soft-RoCE环境搭建实验](https://cuterwrite.top/p/soft-roce/)
+- [基于Flink Native Kubernetes的词频统计实验](https://cuterwrite.top/p/flink-native-k8s/)
+- [基于Spark on k8s的词频统计实验](https://cuterwrite.top/p/spark-on-k8s/)
+- [MapReduce实验](https://cuterwrite.top/p/mapreduce/)
+- [Zookeeper on k8s部署实验](https://cuterwrite.top/p/zookeeper-on-k8s/)
+<!-- BLOG-POST-LIST:END -->
