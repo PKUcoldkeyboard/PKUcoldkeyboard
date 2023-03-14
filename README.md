@@ -6,7 +6,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 [![](https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white)](https://cuterwrite.top/)
 [![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/PKUcoldkeyboard/)
-[![](https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white)]([https://www.zhihu.com/](https://www.zhihu.com/people/kong-tiao-cheng-tai-lang-30-57))
+[![](https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/kong-tiao-cheng-tai-lang-30-57)
 
 ###   Devices
 
