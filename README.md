@@ -30,7 +30,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PKUcoldkeyboard&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PKUcoldkeyboard&layout=compact&theme=radical)
 
 ###   Latest Blogs Post
 <!-- BLOG-POST-LIST:START -->
