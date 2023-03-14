@@ -21,9 +21,6 @@ I publish open source software here. All the repositories are at your disposal.
 
 ![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,stackoverflow,vscode,idea,js,html,css,c,nodejs,python,java,vue,spring,maven,mongo,redis,mysql,md,linux,bash,docker,kubernetes,nginx,jenkins,tensorflow,pytorch,golang,flutter,cs,cpp,cmake,d3,dart,discord,bots,dotnet,githubactions,gradle,graphql,kafka,latex,php,postman)
 
-###   Activity Graph
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=PKUcoldkeyboard&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ###   Commit Stats
 
@@ -43,3 +40,8 @@ I publish open source software here. All the repositories are at your disposal.
 - [MapReduce实验](https://cuterwrite.top/p/mapreduce/)
 - [Zookeeper on k8s部署实验](https://cuterwrite.top/p/zookeeper-on-k8s/)
 <!-- BLOG-POST-LIST:END -->
+
+
+###   Activity Graph
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=PKUcoldkeyboard&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
