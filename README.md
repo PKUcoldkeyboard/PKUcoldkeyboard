@@ -1,5 +1,9 @@
 ## Hi There👋
 
+![](https://img.shields.io/github/stars/PKUcoldkeyboard?theme=social&color=181717&labelColor=282c34&logo=github) 
+[![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FPKUcoldkeyboard&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/PKUcoldkeyboard)
+![](https://komarev.com/ghpvc/?username=pkucoldkeyboard&label=Profile%20views&color=0e75b6&style=flat)
+
 I'm cuterwrite, a Ph.D. Student of Computer Science. Good to see you on my Github page!
 
 I publish open source software here. All the repositories are at your disposal.
