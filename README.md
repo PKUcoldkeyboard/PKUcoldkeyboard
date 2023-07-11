@@ -39,10 +39,10 @@ I publish open source software here. All the repositories are at your disposal.
 ###   Latest Blogs Post
 <!-- BLOG-POST-LIST:START -->
 - [CUDA编程：从基础到应用](https://cuterwrite.top/p/cuda-tutorial/)
+- [最小反馈弧集合问题](https://cuterwrite.top/p/fas/)
 - [RDMA：Soft-RoCE环境搭建实验](https://cuterwrite.top/p/soft-roce/)
 - [基于Flink Native Kubernetes的词频统计实验](https://cuterwrite.top/p/flink-native-k8s/)
 - [基于Spark on k8s的词频统计实验](https://cuterwrite.top/p/spark-on-k8s/)
-- [MapReduce实验](https://cuterwrite.top/p/mapreduce/)
 <!-- BLOG-POST-LIST:END -->
 
 
