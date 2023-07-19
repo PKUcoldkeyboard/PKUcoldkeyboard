@@ -38,11 +38,11 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Latest Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [MPI与并行计算（三）：集合通信](https://cuterwrite.top/p/mpi-tutorial/3/)
 - [MPI与并行计算（二）：点到点通信](https://cuterwrite.top/p/mpi-tutorial/2/)
 - [MPI与并行计算（一）：并行环境及编程模型](https://cuterwrite.top/p/mpi-tutorial/1/)
 - [CUDA编程：从基础到应用](https://cuterwrite.top/p/cuda-tutorial/)
 - [SVD与NMF：矩阵分解的两种方法](https://cuterwrite.top/p/matrix-factorization/)
-- [最小反馈弧集合问题](https://cuterwrite.top/p/fas/)
 <!-- BLOG-POST-LIST:END -->
 
 
