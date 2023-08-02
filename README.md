@@ -38,11 +38,11 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Latest Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [高性能异步I/O框架：io_uring](https://cuterwrite.top/p/efficient-liburing/)
 - [RDMA技术及其编程方法（二）：编程指导](https://cuterwrite.top/p/rdma-tutorial/2/)
 - [RDMA技术及其编程方法（一）：RDMA简介与原理](https://cuterwrite.top/p/rdma-tutorial/1/)
 - [MPI与并行计算（五）：MPI扩展](https://cuterwrite.top/p/mpi-tutorial/5/)
 - [MPI与并行计算（四）：数据类型](https://cuterwrite.top/p/mpi-tutorial/4/)
-- [MPI与并行计算（三）：集合通信](https://cuterwrite.top/p/mpi-tutorial/3/)
 <!-- BLOG-POST-LIST:END -->
 
 
