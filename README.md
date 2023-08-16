@@ -41,8 +41,8 @@ I publish open source software here. All the repositories are at your disposal.
 - [SSE与AVE向量化编程](https://cuterwrite.top/p/simd/)
 - [程序调试与优化分析工具](https://cuterwrite.top/p/debug-and-optimize/)
 - [高性能异步I/O框架：io_uring](https://cuterwrite.top/p/efficient-liburing/)
-- [个人](https://cuterwrite.top/about/)
 - [RDMA技术及其编程方法（二）：编程指导](https://cuterwrite.top/p/rdma-tutorial/2/)
+- [RDMA技术及其编程方法（一）：RDMA简介与原理](https://cuterwrite.top/p/rdma-tutorial/1/)
 <!-- BLOG-POST-LIST:END -->
 
 
