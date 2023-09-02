@@ -38,11 +38,11 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Latest Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [CUDA基础：内存管理](https://cuterwrite.top/p/cuda-base-memory-manage/)
+- [CUDA基础：内存模型概述](https://cuterwrite.top/p/cuda-base-memory-model/)
 - [CUDA基础：线程束执行的本质与优化](https://cuterwrite.top/p/cuda-base-warp/)
 - [SSE与AVE向量化编程](https://cuterwrite.top/p/simd/)
 - [程序调试与优化分析工具](https://cuterwrite.top/p/debug-and-optimize/)
-- [高性能异步I/O框架：io_uring](https://cuterwrite.top/p/efficient-liburing/)
-- [RDMA技术及其编程方法（二）：编程指导](https://cuterwrite.top/p/rdma-tutorial/2/)
 <!-- BLOG-POST-LIST:END -->
 
 
