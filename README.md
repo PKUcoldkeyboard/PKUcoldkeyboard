@@ -38,8 +38,8 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Latest Blogs Post
 <!-- BLOG-POST-LIST:START -->
-- [NEST on HPC 安装教程](https://cuterwrite.top/p/nest-on-hpe-install/)
 - [脉冲神经网络入门：神经元与数学](https://cuterwrite.top/p/introduction-neuron-math/)
+- [NEST on HPC 安装教程](https://cuterwrite.top/p/nest-on-hpe-install/)
 - [CUDA基础：内存访问模式](https://cuterwrite.top/p/cuda-base-memory-access-mode/)
 - [CUDA基础：内存管理](https://cuterwrite.top/p/cuda-base-memory-manage/)
 - [CUDA基础：内存模型概述](https://cuterwrite.top/p/cuda-base-memory-model/)
