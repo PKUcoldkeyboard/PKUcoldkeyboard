@@ -38,11 +38,11 @@ I publish open source software here. All the repositories are at your disposal.
 
 ###   Latest Blogs Post
 <!-- BLOG-POST-LIST:START -->
+- [Ring buffer详解](https://cuterwrite.top/p/ring-buffer/)
+- [性能刺客之伪共享](https://cuterwrite.top/p/false-sharing/)
 - [离子通道与 Hudgkin-Huxley 模型](https://cuterwrite.top/p/ion-channels-and-hudgkin-huxley/)
 - [脉冲神经网络入门：神经元与数学](https://cuterwrite.top/p/introduction-neuron-math/)
 - [NEST on HPC 安装教程](https://cuterwrite.top/p/nest-on-hpe-install/)
-- [CUDA基础：内存访问模式](https://cuterwrite.top/p/cuda-base-memory-access-mode/)
-- [CUDA基础：内存管理](https://cuterwrite.top/p/cuda-base-memory-manage/)
 <!-- BLOG-POST-LIST:END -->
 
 
