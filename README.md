@@ -32,25 +32,13 @@ I publish open source software here. All the repositories are at your disposal.
 
 ![](https://github-profile-trophy.vercel.app/?username=PKUcoldkeyboard&theme=radical&row=1)
 
+###   Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PKUcoldkeyboard&theme=radical&card_width=620)](https://git.io/streak-stats)
+
 ###   Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PKUcoldkeyboard&layout=compact&theme=radical)
 
-###   Latest Blogs Post
-<!-- BLOG-POST-LIST:START -->
-- [Ring buffer详解](https://cuterwrite.top/p/ring-buffer/)
-- [性能刺客之伪共享](https://cuterwrite.top/p/false-sharing/)
-- [离子通道与 Hudgkin-Huxley 模型](https://cuterwrite.top/p/ion-channels-and-hudgkin-huxley/)
-- [脉冲神经网络入门：神经元与数学](https://cuterwrite.top/p/introduction-neuron-math/)
-- [NEST on HPC 安装教程](https://cuterwrite.top/p/nest-on-hpe-install/)
-<!-- BLOG-POST-LIST:END -->
 
-###   My latest activities
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=1000&pause=2000&color=FF408E&multiline=true&random=false&width=500&height=150&lines=no+bugs;no+errors;good)](https://git.io/typing-svg)
