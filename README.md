@@ -45,7 +45,12 @@ I publish open source software here. All the repositories are at your disposal.
 - [NEST on HPC 安装教程](https://cuterwrite.top/p/nest-on-hpe-install/)
 <!-- BLOG-POST-LIST:END -->
 
+###   My latest activities
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-###   Activity Graph
+---
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=PKUcoldkeyboard&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
