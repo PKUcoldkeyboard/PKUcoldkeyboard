@@ -41,4 +41,4 @@ I publish open source software here. All the repositories are at your disposal.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PKUcoldkeyboard&layout=compact&theme=radical)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=1000&pause=2000&color=FF408E&multiline=true&random=false&width=500&height=150&lines=no+bugs;no+errors;good)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trebuchet+MS&duration=2000&pause=1000&color=FF9671&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=0+Error+0+Warning+%F0%9F%A5%B3;Python+Java+C%2B%2B+Line+Line+So+Easy+%E2%9C%8C%EF%B8%8F;Years+Months+Weeks+Day+Day+No+Bug+%F0%9F%90%9B)](https://git.io/typing-svg)
